@@ -5,5 +5,6 @@ Repositório de Docker criado para atender a projetos de PHP-Laravel, de forma s
 <p>MySql - 5.7.22</p>
 <p>Nginx - Stable</p>
 
-<h1>Passo a Passo<h1>
+<h1>Passo a Passo</h1>
+  
 <p> Fazer o download do Docker Desktop : https://www.docker.com/get-started/ <p>
