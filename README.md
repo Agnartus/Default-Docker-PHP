@@ -23,6 +23,8 @@ Sera criado as imagens do container, para iniciar o container execute o comando
 docker-compose up
 ```
 
+Para acessar o seu projeto para abrir o navegador no caminho http://localhost:8088/
+
 
 Comando para parar o funcionamento do container
 ```bash
