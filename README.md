@@ -2,8 +2,8 @@
 Repositório de Docker criado para atender a projetos de PHP-Laravel, de forma simples e rapida.
 
 <p>PHP - 8.1</p>
-<p>MySql - 5.7.22 ##Porta 4306</p>
-<p>Nginx - Stable ##Porta 8088</p>
+<p>MySql - 5.7.22 <strong>Porta 4306</strong></p>
+<p>Nginx - Stable <strong>Porta 8088</strong></p>
 
 <h1>Passo a Passo</h1>
   
