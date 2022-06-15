@@ -30,3 +30,11 @@ Comando para parar o funcionamento do container
 ```bash
 docker-compose down
 ```
+
+##Informações Extras
+<p>Banco de dados Criado: namedb </p>
+<p>MYSQL_USER: userdb </p>
+<p>MYSQL_PASSWORD: 1234 </p>
+<p>MYSQL_ROOT_PASSWORD: 1234 </p>
+
+Para alterar, basta editar o aquivo docker-compose.yml -> mysql
