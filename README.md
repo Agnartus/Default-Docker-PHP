@@ -10,3 +10,21 @@ Repositório de Docker criado para atender a projetos de PHP-Laravel, de forma s
 <p> Fazer o download do Docker Desktop : https://www.docker.com/get-started/ </p>
 <p> Atualizar o WSL e instalar um subsistema Linux : https://docs.microsoft.com/pt-br/windows/wsl/install-manual, Recomendo o Ubuntu </p>
 <p> Apos isso fechar e iniciar o Docker novamente</p>
+
+## Instalação do Container
+
+Acesse a pasta e execute o comando
+```bash
+docker-compose build
+```
+
+Sera criado as imagens do container, para iniciar o container execute o comando
+```bash
+docker-compose up
+```
+
+
+Comando para parar o funcionamento do container
+```bash
+docker-compose down
+```
