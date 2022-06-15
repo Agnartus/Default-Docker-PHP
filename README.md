@@ -32,9 +32,9 @@ docker-compose down
 ```
 
 ## Informações Extras
-<p>Banco de dados Criado: namedb </p>
-<p>MYSQL_USER: userdb </p>
-<p>MYSQL_PASSWORD: 1234 </p>
-<p>MYSQL_ROOT_PASSWORD: 1234 </p>
+Banco de dados Criado: namedb
+MYSQL_USER: userdb
+MYSQL_PASSWORD: 1234
+MYSQL_ROOT_PASSWORD: 1234
 
 Para alterar, basta editar o aquivo <strong>docker-compose.yml -> mysql</strong>
