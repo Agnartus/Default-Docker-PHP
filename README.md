@@ -37,4 +37,4 @@ docker-compose down
 <p>MYSQL_PASSWORD: 1234 </p>
 <p>MYSQL_ROOT_PASSWORD: 1234 </p>
 
-Para alterar, basta editar o aquivo docker-compose.yml -> mysql
+Para alterar, basta editar o aquivo <strong>docker-compose.yml -> mysql</strong>
